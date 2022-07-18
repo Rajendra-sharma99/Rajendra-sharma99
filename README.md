@@ -5,7 +5,7 @@
 - 📫 Reach out to me : rajendrasm99@gmail.com
 
 My Tech Stack : 
- C , C++ , DSA , OOPS , DBMS , OS , HTML , CSS , JAVASCRIPT , NODE JS , MONGO DB
+ C , C++ , DSA , OOPS , DBMS , OS , HTML , CSS , JAVASCRIPT
 
 <!---
 Rajendra-sharma99/Rajendra-sharma99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
